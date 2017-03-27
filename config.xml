@@ -31,7 +31,7 @@
 <br>
 </div>
 <div>
-	<img src=”imagenes/fotoPerfil.png” width=”50%” height=”50%”>
+	<img src="imagenes/fotoPerfil.jpg" width=”50%” height=”50%”>
 </div>
 </div>
 </div>
@@ -40,119 +40,119 @@
 <li class=”ui-first-child ui-last-child”>
 <a href=”#Pagina1” class=”ui-btn ui-btn-icon-right ui-icon-carat-r”>
 	<h2>Datos generales</h2>
-<p>Se muestra el nombre</p>
+<p>Paola Constanza Elguea Pérez</p>
 </a>
 </li>
 <li class=”ui-first-child ui-last-child”>
 	<a href=”#Pagina2” class=”ui-btn-icon-right ui-icon-carat-r”>
 		<h2>Fecha de Nacimiento</h2>
-		<p>Se muestra el dia, mes y año de nacimiento</p>
+		<p>17 de Diciembre de 1999</p>
 	</a>
 </li>
 <li class=”ui-first-child ui-last-child”>
 	<a href=”#Pagina3” class=”ui-btn-icon-right ui-icon-carat-r”>
 		<h2>DOMICILIO</h2>
-		<p>Muestra el domicilio del alumno</p>
+		<p>2a Priv. Degollado #509A, Col. Centro</p>
 	</a>
 </li>
 <li class=”ui-first-child ui-last-child”>
 	<a href=”#Pagina4” class=”ui-btn-icon-right ui-icon-carat-r”>
 		<h2>Deporte Favorito</h2>
-		<p>Muestra el deporte que más le agrada al alumno</p>
+		<p>Volleyball</p>
 	</a>
 </li>
 <li class=”ui-first-child ui-last-child”>
 	<a href=”#Pagina5” class=”ui-btn-icon-right ui-icon-carat-r”>
 		<h2>OTROS GUSTOS E INTERESES </h2>
-		<p>Muestra otros gustos del alumno </p>
+		<p>Cantar, dibujar, pintar, bailar y leer</p>
 	</a>
 </li>
 </ul>
 </div>
 <div data role=”footer” align=”center” data-theme=”a” data-position=”fixed”>
 <div>
-<img src=”imagenes/persona_rosa.png” width=”46” height=”46”>
+<img src="imagenes/persona_azul.png" width=”46” height=”46”>
 </div>
 <div>
-	<h4>Aplicacion Uno>/h4>
-	<h4>Jose Antonio Gomez Hernandez</h4>
+	<h4>Aplicacion Uno</h4>
+	<h4>Paola Constanza Elguea Perez</h4>
 </div>
 </div>
 </div>
-<div data-role=”page” id=”Pagina1” data-add-back.btn=”true” data-theme=”a”>
+<div data-role=”page” id="Pagina1” data-add-back.btn=”true” data-theme=”a”>
 	<div data-role=”header” data-add-back-btn=”true” data-back-btn-text=”Regresar” data-back-btn-theme=”b”>
 	<h1>NOMBRE</h1>
 	</div>
 <div data-role=”content” align=”center”>
 	<div>
-	<h2>JOSE ANTONIO GOMEZ HERNANDEZ</h2>
+	<h2>PAOLA CONSTANZA ELGUEA PEREZ</h2>
 	</div>
 	</div>
 <div data-role=”footer” data-theme=”a” data-position=”fixed”>
-	<h4>Aplicacion Uno, JAGH</h4>
+	<h4>Aplicacion Uno, PCEP</h4>
 </div>
 </div>
 
 
-<div data-role=”page” id=”Pagina2” data-add-back.btn=”true” data-theme=”a”>
+<div data-role=”page” id="Pagina2” data-add-back.btn=”true” data-theme=”a”>
 	<div data-role=”header” data-add-back-btn=”true” data-back-btn-text=”Regresar” data-back-btn-theme=”b”>
 	<h1>FECHA DE NACIMIENTO</h1>
 	</div>
 <div data-role=”content” align=”center”>
 	<div>
-	<h2>2 de Noviembre de 1974</h2></div>
+	<h2>17 de Diciembre de 1999</h2></div>
 	</div>
 <div data-role=”footer” data-theme=”a” data-position=”fixed”>
-	<h4>Aplicacion Uno, JAGH</h4>
+	<h4>Aplicacion Uno, PCEP</h4>
 </div>
 </div>
 
 
-<div data-role=”page” id=”Pagina3” data-add-back.btn=”true” data-theme=”a”>
+<div data-role=”page” id="Pagina3” data-add-back.btn=”true” data-theme=”a”>
 	<div data-role=”header” data-add-back-btn=”true” data-back-btn-text=”Regresar” data-back-btn-theme=”b”>
 	<h1>DOMICILIO</h1>
 	</div>
 <div data-role=”content” align=”center”>
 	<div>
-	<h2>Escribir el domicilio</h2></div>
-			</div>
+	<h2>2a Priv. Degollado #309A, Col. Centro</h2></div>
+	</div>
 <div data-role=”footer” data-theme=”a” data-position=”fixed”>
-	<h4>Aplicacion Uno, JAGH</h4>
+	<h4>Aplicacion Uno, PCEP</h4>
 </div>
 </div>
 
 
-<div data-role=”page” id=”Pagina4” data-add-back.btn=”true” data-theme=”a”>
+<div data-role=”page” id="Pagina4” data-add-back.btn=”true” data-theme=”a”>
 	<div data-role=”header” data-add-back-btn=”true” data-back-btn-text=”Regresar” data-back-btn-theme=”b”>
 	<h1>DEPORTE FAVORITO</h1>
 	</div>
 <div data-role=”content” align=”center”>
 	<div>
-	<h2>Escribir el deporte favorito y pegar una foto</h2>
+	<h2>Volleyball</h2>
 	<img src=”imagenes/deporte.jpg” width=”50%” height=”50%”>
 </div>
 		</div>
 <div data-role=”footer” data-theme=”a” data-position=”fixed”>
-	<h4>Aplicacion Uno, JAGH</h4>
+	<h4>Aplicacion Uno, PCEP</h4>
 </div>
 </div>
 
 
-<div data-role=”page” id=”Pagina5” data-add-back.btn=”true” data-theme=”a”>
+<div data-role=”page” id="Pagina5” data-add-back.btn=”true” data-theme=”a”>
 	<div data-role=”header” data-add-back-btn=”true” data-back-btn-text=”Regresar” data-back-btn-theme=”b”>
 	<h1>GUSTOS E INTERESES</h1>
 	</div>
 <div data-role=”content” align=”center”>
 	<div>
-	<h2>Escribir otros gustos e intereses</h2></div>
+	<h2>Cantar, dibujar, pintar, bailar y leer</h2></div>
 	<img src=”imagenes/pasatiempo.jpg” width=”50%” height=”50%”>
 			</div>
 <div data-role=”footer” data-theme=”a” data-position=”fixed”>
-	<h4>Aplicacion Uno, JAGH</h4>
+	<h4>Aplicacion Uno, PCEP</h4>
 </div>
 </div>
 
-<icono src="res/android/mdpi.jpg/>
+
 
 </body>
 </html>
